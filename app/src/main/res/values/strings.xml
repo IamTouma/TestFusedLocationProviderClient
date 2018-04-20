@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestFusedLocationProviderClient</string>
+    <string name="button_start">start</string>
+    <string name="button_stop">stop</string>
+    <string name="button_clear">clear</string>
+    <string name="edit_priority">優先度</string>
+    <string name="button_priority">設定</string>
+</resources>
